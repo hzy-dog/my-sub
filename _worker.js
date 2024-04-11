@@ -11,7 +11,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/878088/Worker/main/TLS.txt', //可参考内容格式 自行搭建。
 	'https://cn.xxxxxxxx.tk',
         'https://ct.xxxxxxxx.tk',
 	'https://cm.xxxxxxxx.tk',
@@ -19,7 +19,8 @@ let addressesapi = [
 	'https://cnv6.xxxxxxxx.tk',
 	'https://cuv6.xxxxxxxx.tk',
 	'https://cmv6.xxxxxxxx.tk',
-	'https://ctv6.xxxxxxxx.tk'
+	'https://ctv6.xxxxxxxx.tk',
+	
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
